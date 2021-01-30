@@ -89,6 +89,10 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 - [Exception Handling using Platform Events](https://lnkd.in/da_MFtu)
 
+- [Aggregating & Validating Data](https://lnkd.in/dtUdzcV)
+
+- [Salesforce Function](https://lnkd.in/dsKjzTE)
+
 
 ### Integrations
 
@@ -99,6 +103,7 @@ Salesforce provides customer-relationship management (CRM) service and also sell
   [Youtube Rest API](https://lnkd.in/dJ-MysX)
   [Salesforce & Heroku Integration](https://lnkd.in/dK5X84q)
   [Node.js endpoint](https://lnkd.in/dpwfJcs)
+  [Google chrome extensions for Salesforce](https://lnkd.in/dgx9pSi)
 
 - [Integrating SMS with Salesforce](https://lnkd.in/d4PGATS)
 
@@ -117,11 +122,15 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 - [Salesforce Solution Design – Performance considerations](https://lnkd.in/dbCC2PX)
 
+- [Automate the App Lifecycle with CumulusCI (CI/CD)](https://lnkd.in/diXbrAr)
+
 - [Advanced Analytics | Building on Tableau CRM (formerly Einstein Analytics)](https://lnkd.in/dJp-PPK)
   [Blog on Tableau CRM](https://lnkd.in/d-uB7tW)
   [Tableau CRM](https://lnkd.in/dfSVXUU)
   [Tableau](youtu.be/aw9IkiG5cMA)
   
+- [Salesforce GraphQL](https://lnkd.in/gj_gJ4Z)
+
 - [Spring '21 Release - Automation Impact and Readiness for Successful Validation](https://register.gotowebinar.com/recording/viewRecording/3839977701941637392/2865681757361916939/navyadevineni30@gmail.com?registrantKey=8813471215865241616&type=ABSENTEEEMAILRECORDINGLINK)
 
 
