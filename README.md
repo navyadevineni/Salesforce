@@ -15,12 +15,14 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 1. IoT
 
 ![](http://awsacademy.co.in/images/main-qimg-87695a2823b75ebf66b805296c78279c.png)
+(Image from __awsacademy.co.in__)
 
 ## Links
 
-[Spring '21 Release - Automation Impact and Readiness for Successful Validation](https://register.gotowebinar.com/recording/viewRecording/3839977701941637392/2865681757361916939/navyadevineni30@gmail.com?registrantKey=8813471215865241616&type=ABSENTEEEMAILRECORDINGLINK)
+- [Spring '21 Release - Automation Impact and Readiness for Successful Validation](https://register.gotowebinar.com/recording/viewRecording/3839977701941637392/2865681757361916939/navyadevineni30@gmail.com?registrantKey=8813471215865241616&type=ABSENTEEEMAILRECORDINGLINK)
 
-(Image from __awsacademy.co.in__)
+- [Salesforce Lightning flow | Flow Builder](https://www.linkedin.com/posts/apexhours_salesforce-lightning-flow-flow-builder-activity-6759854955680542720-73LP)
+
 ## Why Salesforce ?
 - __Easy to Use__
 - __Easy to Customize__
