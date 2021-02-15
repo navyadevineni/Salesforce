@@ -104,6 +104,7 @@ Salesforce provides customer-relationship management (CRM) service and also sell
   [Salesforce & Heroku Integration](https://lnkd.in/dK5X84q)
   [Node.js endpoint](https://lnkd.in/dpwfJcs)
   [Google chrome extensions for Salesforce](https://lnkd.in/dgx9pSi)
+  [PayPal}(https://lnkd.in/dRxgef7)
 
 - [Integrating SMS with Salesforce](https://lnkd.in/d4PGATS)
 
