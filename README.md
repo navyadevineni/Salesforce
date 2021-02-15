@@ -42,9 +42,9 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 - [Sharing and Visibility in Salesforce](https://lnkd.in/dNDpgux)
 
 - [Introduction to Visualforce page](https://lnkd.in/d_kYb9d)
-
-- [Lightning Web Components](https://lnkd.in/dJQnGJP) |
-  [Lightning Web Component Development](https://lnkd.in/g_apSi9) |
+ 
+- [Lightning Web Components](https://lnkd.in/dJQnGJP)  | 
+  [Lightning Web Component Development](https://lnkd.in/g_apSi9)  |
   [LWC](https://lnkd.in/dTqmY88)
 
 - [Introduction to Lightning Component AURA](https://lnkd.in/d9UNHRk)
@@ -53,10 +53,10 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 - [Developer Tools & Debugging Tools](https://lnkd.in/dQhBH-r)
 
-- [Salesforce Lightning flow | Flow Builder](https://www.linkedin.com/posts/apexhours_salesforce-lightning-flow-flow-builder-activity-6759854955680542720-73LP) |
+- [Salesforce Lightning flow | Flow Builder](https://www.linkedin.com/posts/apexhours_salesforce-lightning-flow-flow-builder-activity-6759854955680542720-73LP)  |
   [LF | FB](https://lnkd.in/dhKASxW)
 
-- [Salesforce Dynamic Forms and Actions](https://lnkd.in/djhsX4S) |
+- [Salesforce Dynamic Forms and Actions](https://lnkd.in/djhsX4S)  |
   [Dynamic forms and actions](https://lnkd.in/dyYCexj)
   
 - [About Field Service Lightning](https://lnkd.in/dx48Wry)
@@ -65,8 +65,8 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 - [Multi-Factor Authentication | Two-factor authentication Salesforce](https://lnkd.in/dgEinTc)
 
-- [Oauth Authorization flows in Salesforce](https://lnkd.in/dqzhEWU) |
-  [Oauth](https://lnkd.in/dmzBMhg) |
+- [Oauth Authorization flows in Salesforce](https://lnkd.in/dqzhEWU)  |
+  [Oauth](https://lnkd.in/dmzBMhg)   |
   [Authorization](https://lnkd.in/dqzhEWU)
 
 - [DML Statement vs. Database methods in Salesforce](https://lnkd.in/dkEC6mY)
@@ -79,8 +79,8 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 - [Introduction to Class, Method, Static and OOPs Concept in Apex](https://lnkd.in/dE66QwQ)
 
-- [Introduction To Apex | DataType | Collection | Conditional Statements ](https://lnkd.in/dJJqE6f) |
-  [Asynchronous Apex](https://lnkd.in/dZkY2-t) |
+- [Introduction To Apex | DataType | Collection | Conditional Statements ](https://lnkd.in/dJJqE6f)  |
+  [Asynchronous Apex](https://lnkd.in/dZkY2-t)   |
   [Future Vs Queueable Apex](https://lnkd.in/dHc9vX9) 
 
 - [Basic of SOQL and SOSL in Salesforce](https://lnkd.in/dRvwEef)
@@ -98,12 +98,12 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 - [Integration Basics](https://lnkd.in/dKR6Bmp)
 
-- [Salesforce Integrations](https://lnkd.in/dwakifH) |
-  [Integrations](https://lnkd.in/dVY_spS) |
-  [Youtube Rest API](https://lnkd.in/dJ-MysX) |
-  [Salesforce & Heroku Integration](https://lnkd.in/dK5X84q) |
-  [Node.js endpoint](https://lnkd.in/dpwfJcs) |
-  [Google chrome extensions for Salesforce](https://lnkd.in/dgx9pSi)
+- [Salesforce Integrations](https://lnkd.in/dwakifH)  |
+  [Integrations](https://lnkd.in/dVY_spS)  |
+  [Youtube Rest API](https://lnkd.in/dJ-MysX)  |
+  [Salesforce & Heroku Integration](https://lnkd.in/dK5X84q)  |
+  [Node.js endpoint](https://lnkd.in/dpwfJcs)  |
+  [Google chrome extensions for Salesforce](https://lnkd.in/dgx9pSi)  |
   [PayPal](https://lnkd.in/dRxgef7) |
 
 - [Integrating SMS with Salesforce](https://lnkd.in/d4PGATS)
@@ -125,9 +125,9 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 - [Automate the App Lifecycle with CumulusCI (CI/CD)](https://lnkd.in/diXbrAr)
 
-- [Advanced Analytics | Building on Tableau CRM (formerly Einstein Analytics)](https://lnkd.in/dJp-PPK) |
-  [Blog on Tableau CRM](https://lnkd.in/d-uB7tW) |
-  [Tableau CRM](https://lnkd.in/dfSVXUU) |
+- [Advanced Analytics | Building on Tableau CRM (formerly Einstein Analytics)](https://lnkd.in/dJp-PPK)  |
+  [Blog on Tableau CRM](https://lnkd.in/d-uB7tW)  |
+  [Tableau CRM](https://lnkd.in/dfSVXUU)  |
   [Tableau](youtu.be/aw9IkiG5cMA) 
   
 - [Salesforce GraphQL](https://lnkd.in/gj_gJ4Z)
@@ -143,7 +143,7 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 - [Salesforce Developer Training](https://lnkd.in/e7VyrbG)
 
 - [CPQ Training](https://www.apexhours.com/salesforce-cpq-training/)  |
-  [CPQ Custom Actions & Search Filters](https://lnkd.in/dmgSeBF) |
+  [CPQ Custom Actions & Search Filters](https://lnkd.in/dmgSeBF)  |
   [CPQ Basics](https://lnkd.in/gYMySgM)
   
 - [Marketing Cloud Connect](https://lnkd.in/dV-FYVc)
