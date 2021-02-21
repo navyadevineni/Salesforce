@@ -152,8 +152,7 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 One fun way to learn Salesforce is through Trailhead learning.
 
-![](https://trailhead.salesforce.com/assets/trailhead-logo-86df2c10154e03fb8b18110597a115ecce58d8bb2887e33a155ae8784cca5784.svg)
-Image from [Trailhead Website](https://trailhead.salesforce.com/)
+[Trailhead Website](https://trailhead.salesforce.com/)
 
 ## References:
 Website for Trailhead: [Trailhead Home](https://trailhead.salesforce.com/en)
