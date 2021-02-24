@@ -33,6 +33,10 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 ## Setup
 [Setup VS Code for Salesforce](https://lnkd.in/gWd-BDS)
 
+## Keyboard Shortcuts
+
+![Shortcuts](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/service-cloud-agent-productivity/use-all-the-tools-together/images/aeb36bb22324446700e03ccc3101f042_demo-shortcut-panel.jpg)
+
 ## Links
 
 - [Salesforce Naming Conventions Best Practices](https://lnkd.in/dCmb8nE)
