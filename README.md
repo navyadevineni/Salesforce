@@ -158,6 +158,10 @@ One fun way to learn Salesforce is through Trailhead learning.
 
 [Trailhead Website](https://trailhead.salesforce.com/)
 
+
+## Clean your Org
+[SF cleaning](https://nanahgregg.com/2021/02/25/salesforce-cleaning-menu-mild-a-flavor-for-everyone/)
+
 ## References:
 Website for Trailhead: [Trailhead Home](https://trailhead.salesforce.com/en)
 
