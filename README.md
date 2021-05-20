@@ -100,6 +100,8 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 - [Salesforce Function](https://lnkd.in/dsKjzTE)
 
+- [Agile in Salesforce](https://lnkd.in/dtgSYJg)
+
 
 ### Integrations
 
