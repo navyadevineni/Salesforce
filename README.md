@@ -152,6 +152,9 @@ Salesforce provides customer-relationship management (CRM) service and also sell
 
 - [Salesforce Developer Training](https://lnkd.in/e7VyrbG)
 
+- [Apex](https://www.sfdc99.com/beginner-tutorials/)
+
+
 - [CPQ Training](https://www.apexhours.com/salesforce-cpq-training/)  |
   [CPQ Custom Actions & Search Filters](https://lnkd.in/dmgSeBF)  |
   [CPQ Basics](https://lnkd.in/gYMySgM)
@@ -171,6 +174,10 @@ One fun way to learn Salesforce is through Trailhead learning.
 Website for Trailhead: [Trailhead Home](https://trailhead.salesforce.com/en)
 
 Official Website for Salesforce: [Salesforce](https://www.salesforce.com/)
+
+Collaboration: [Community](https://quip.com/Q7E8ARFv56AN)
+
+[Skills to learn in 2021](https://www.salesforce.com/ap/blog/2021/01/succeed-in-2021-with-trailhead.html?_lrsc=4af75b10-bc05-446d-976b-bea263def7c1&utm_campaign=5fc92abb61292600017e7c63&utm_content=5fff017e2a793e00018657fd&utm_medium=smarpshare&utm_source=linkedin)
 
 
 
