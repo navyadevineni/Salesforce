@@ -179,5 +179,6 @@ Collaboration: [Community](https://quip.com/Q7E8ARFv56AN)
 
 [Skills to learn in 2021](https://www.salesforce.com/ap/blog/2021/01/succeed-in-2021-with-trailhead.html?_lrsc=4af75b10-bc05-446d-976b-bea263def7c1&utm_campaign=5fc92abb61292600017e7c63&utm_content=5fff017e2a793e00018657fd&utm_medium=smarpshare&utm_source=linkedin)
 
+[Coding cracking](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
 
 
